@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235921543515",
+    "project_id": "ayuraauthentication",
+    "storage_bucket": "ayuraauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235921543515:android:3680c88244847fad328a7e",
+        "android_client_info": {
+          "package_name": "com.example.ayur_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235921543515-cieoj7o8i1mucgpceu2bq6ah0ra1btn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT6H78iRELNedhJCmVY8jwFikjyTHelQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235921543515-9lnum438qsnfqch9cbtfp4g8v1l312u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
